@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Assignment</title>
+    <style>
+          .enternal-css{
+            /*background-color: brown;*/
+            color: yellow;
+          }
+    </style>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+      <h1>Here the Example</h1>
+      <!--depending on the order inline wins between internal and inline -->
+      <div style="color :red ;">
+        This is the inline css here.
+      </div>
+      <!--depending on the order enternal wins between internal and external -->      
+     <div class="enternal-css">
+         This is the Enternal css here.
+      </div>
+      <div class="external-css">
+        This is the External css here.
+      </div>
+</body>
+</html>
