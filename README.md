@@ -42,6 +42,22 @@ All PW HTML Assignments is Here ......
  ![Signup](https://github.com/mrcsghosh/PWHTML/assets/145031494/0cb7e453-6659-47b0-a0c0-1fc228be98c0)
  # Media And Forms Q.No sign in
  ![Signin](https://github.com/mrcsghosh/PWHTML/assets/145031494/c9067c6a-3b68-43ca-a178-03b8899e1dd3)
+# SEO Q.No 01
+![Q 01](https://github.com/mrcsghosh/PWHTML/assets/145031494/44d4e8a9-fe52-4679-bcf6-67f150d8c01f)
+# SEO Q.No 02
+![Q 02](https://github.com/mrcsghosh/PWHTML/assets/145031494/6ffec7c6-e346-4577-b7aa-789bffab02e0)
+# SEO Q.No 03
+![Q 03](https://github.com/mrcsghosh/PWHTML/assets/145031494/ca1391e5-0a05-4bab-bbcd-31840ab4a9d6)
+# SEO Q.No 04
+![Q 04](https://github.com/mrcsghosh/PWHTML/assets/145031494/e77bfbee-7733-4aaf-913f-e2f0bdd51393)
+# SEO Q.No 05
+![Q 05](https://github.com/mrcsghosh/PWHTML/assets/145031494/61f095b1-09a6-428f-8b34-8f91ccdd8299)
+
+
+
+
+
+
 
 
 
