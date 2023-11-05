@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign in page</title>
+</head>
+<body>
+    <h2>Sign in Here</h2>
+    <p>required Field are Followed by *</p>
+    <form action="./signin.html" method="">
+        <label for="fname">First Name *</label>
+             <input  placeholder="Ram" type="text" name="fname" id="fname"  required minlength="3" maxlength="20">
+             <br><br>
+   
+        <label for="mname">Middile Name</label>
+             <input  placeholder="kumar" type="text" name="mname" id="mname" minlength="3" maxlength="20" >
+             <br><br>
+
+        <label for="lname">Last Name *</label>
+             <input placeholder="Ghosh" type="text" name="lname" id="lname"  minlength="3" maxlength="20">
+             <br><br>
+
+
+        <label for="email">Email Address *</label>
+             <input placeholder="mrcs@gmail.com" type="email" name="email" id="email" required>
+             <br><br>
+
+        <label for="phone">phone number:</label>
+            <input type="tel" id="phone" name="phone" placeholder="123-45-678" maxlength="10" required><br><br>
+
+        <label for="password">Create Password *</label>
+             <input placeholder="********" type="password" name="password" id="password" required maxlength="8">
+             <br><br>
+
+        <label for="password">Comfirm Password *</label>
+             <input placeholder="********" type="password" name="password" id="password" required maxlength="8" >
+             <br><br>
+     
+        <label for="age">Age *</label>
+             <input placeholder="18" type="number" name="age" id="age" minlength="10"  maxlength="100">
+            <br><br>
+
+        <label for="Gender">Gender *</label>
+             <input type="radio" name="Gender" id="Gender" required>Male
+             <input type="radio" name="Gender" id="FeMale" required>FeMale
+             <input type="radio" name="Gender" id="other" required>other
+             <br><br>
+        <label for="Select City">Select City *</label>
+        <select name=" Select_City" id="Select_City">
+             <option value="">-Select your City-</option>
+             <option value="Indore">Indore</option>
+             <option value="Bhopal">Bhopal</option>
+             <option value="Khargone">Khargone</option>
+             <option value="Ujjain">Ujjain</option>
+        </select>
+             <br><br>
+             <label for="Address">Address *</label>
+             <textarea name="Address" id="Address" cols="100" rows="8"></textarea>
+             <br><br>
+             <label for="pincode">pincode *</label>
+             <input type="number" name="pincode" id="pincode" required>
+             <br><br>
+        <label for="Terms">
+             <input type="checkbox" name="Terms" id="Terms" required> I Agree to Terms and Conditions
+        </label>
+             <br><br>
+
+
+             <input type="submit" value="submit">
+             <!--<a href="./signin.html">Register</a>-->
+
+    </form>
+</body>
+</html>
