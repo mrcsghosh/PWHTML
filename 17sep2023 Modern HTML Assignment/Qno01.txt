@@ -1,0 +1,24 @@
+Question No. 01 Answer:-
+
+Here's a list of some of the key features and enhancements in HTML5:
+Semantic Elements: HTML5 introduced a set of new semantic elements such as <header>, <nav>, <main>, <article>, <section>, and <footer>, making it easier to structure web pages and improve accessibility.
+
+
+Multimedia Support: HTML5 includes native support for audio and video elements (<audio> and <video>), eliminating the need for third-party plugins like Adobe Flash.
+
+
+Canvas: The <canvas> element allows for dynamic 2D drawing and rendering using JavaScript, making it suitable for creating games, interactive graphics, and data visualization.
+
+
+Scalable Vector Graphics (SVG): HTML5 supports SVG, which allows for the inclusion of vector graphics in web pages, offering scalability and responsiveness.
+
+
+Geolocation: HTML5 provides geolocation support through the Geolocation API, allowing websites to request a user's location for various applications like mapping and local services.
+
+
+Web Storage: HTML5 introduced Web Storage (localStorage and sessionStorage) for storing data on the client side, which is more efficient and secure compared to cookies.
+
+
+Web Workers: Web Workers enable the execution of JavaScript code in the background, allowing for better multitasking and improved performance.
+
+Offline Web Applications: With the Application Cache (AppCache) and Service Workers, HTML5 enables the creation of offline web applications, which can work without an internet connection.
